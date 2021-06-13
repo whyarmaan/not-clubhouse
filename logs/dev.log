@@ -1,0 +1,9 @@
+
+------------------------
+[Sun Jun 13 2021 22:37:27 GMT+0530 (India Standard Time)]: failed to connect to server [localhost:27017] on first connect [Error: connect ECONNREFUSED 127.0.0.1:27017
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1133:16) {
+  name: 'MongoNetworkError'
+}]
+
+------------------------
+[Sun Jun 13 2021 22:38:07 GMT+0530 (India Standard Time)]: [32m[SERVER] Listening On Port 3000[39m
