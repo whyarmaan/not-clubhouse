@@ -26,4 +26,4 @@ npm run start:dev
 
 | Name         | Github    | Discord             |
 |--------------|-----------|---------------------|
-| Armaan Gupta | whyarmaan | @*My Username*#6168 |
+| Armaan Gupta | whyarmaan | @\*My Username*#6168 |
